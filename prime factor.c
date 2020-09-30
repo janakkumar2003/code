@@ -8,6 +8,9 @@ int main()
     scanf("%d",&a);
     primefactor(a);
 }
+
+//this code is okay //let me add some comments
+
 void primefactor(int a)
 {
     int i;
